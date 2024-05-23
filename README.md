@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @FeLorentzo
+- ✈️ I'm undergratuate student of aircraft engineering
+- 👀 I’m interested in computational science, engineering, Digital Image Correlation and... football!
+- 🌱 I’m currently learning GMsh API and prompt engineering for Generative AI
+- 📫 How to reach me: University of São Paulo, São Carlos
+- 👥 LinkedIn: www.linkedin.com/in/felipe-lorenzo-andrade-de-oliveira-696255215
+- 😄 Pronouns: He/his
