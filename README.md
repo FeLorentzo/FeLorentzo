@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning GMsh API and prompt engineering for Generative AI
 - 📫 How to reach me: University of São Paulo, São Carlos
 - 👥 LinkedIn: www.linkedin.com/in/felipe-lorenzo-andrade-de-oliveira-696255215
-- 😄 Pronouns: He/his
+
+Here, I aim to upload different kinds of code, based on my interest at that moment. I hope that you enjoy!
